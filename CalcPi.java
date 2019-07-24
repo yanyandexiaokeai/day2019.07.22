@@ -1,4 +1,11 @@
 public class CalcPi{
+	 /**
+     * 利用公式
+     * Pi / 4 = 1/1 - 1/3 + 1/5 - 1/7 + 1/9 - ...
+     * 计算 pi 的值
+     * @param n 一共计算多少项
+     * @return
+     */
 	public static double calcPi(int n){
 		double pi4=0;
 		//n代表多少项的问题，从0开始，所以不能等于
