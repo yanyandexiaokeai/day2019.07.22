@@ -1,6 +1,0 @@
-dao/ImageDao.class
-dao/Image.class
-common/JavaImageServerException.class
-api/ImageServlet.class
-dao/DBUtil.class
-api/ImageShowServlet.class
